@@ -22,3 +22,10 @@ I am also one of the Community Managers at the following communities such as
 I am working on the following open source projects such as [Vue.js](), 
 [Vite](), [AdonisJS](), [Python Portugal](), [Styled Components](), [Stitches](), 
 [Nuxt.js](), [Flask](), [Vue Test Utils]().
+
+## Social Media
+
+- [LinkedIn](https://linkedin.com/in/nazarepiedady)
+- [Instagram](https://instagram.com/nazarepiedady)
+- [Twitter](https://twitter.com/nazarepiedady)
+- [Facebook](https://facebook.com/nazarepiedady)
