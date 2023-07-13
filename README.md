@@ -4,7 +4,11 @@ I am an independent software engineer that loves to do open-source, write code, 
 
 I have experience writing code in the most mainstream programming languages but at present, I am more interested in working in the ecosystem of the programming languages listed below:
 
+## Ecosystems
+
 ![](https://skillicons.dev/icons?i=html,css,javascript,typescript,python,ruby,go,rust)
+
+## GitHub Activity Status
 
 <div style="display:flex;gap:0.5%;">
   <picture>
