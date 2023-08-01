@@ -1,14 +1,17 @@
-# 👋 Hi, I am Nazaré
+I am an independent software engineer from Angola, an independent computer science student, user experience and interface student, and experienced programmer with more than 7 years of experience.
 
-I am an independent software engineer that loves to do open-source, write code, and create and share helpful content about computer science, programming, software engineering and user interface designing.
+I am in the same London timezone and **you can contract me** using one of these two platforms [**deel.com**](https://www.deel.com/) and [**remote.com**](https://remote.com/country-explorer/angola).
 
-I have experience writing code in the most mainstream programming languages but at present, I am more interested in working in the ecosystem of the programming languages listed below:
-
-## Ecosystems
+I am interested in working on with the following programming languages:
 
 ![](https://skillicons.dev/icons?i=html,css,javascript,typescript,python,ruby,go,rust)
 
-## GitHub Activity Status
+I am a passionate open-source contributor, member and fellow of [Django Software Foundation](https://djangoproject.com/) and [Python Software Foundation](https://www.python.org/) by Portuguese and Brazilian communities, and:
+
+- Member of the [vitejs](https://github.com/vitejs) team working mainly on [vitejs/docs-pt](https://github.com/vitejs/docs-pt).
+- Member of the [vuejs-translations](https://github.com/vuejs-translations) team working mainly on [vuejs-translations/docs-pt](https://github.com/vuejs-translations/docs-pt).
+- Main person behind the [nodejs.dev/pt](https://nodejs.dev/pt).
+- Main person behind the [v2.nuxtjs.org/pt](https://v2.nuxtjs.org/pt).
 
 <div style="display:flex;gap:0.5%;">
   <picture>
