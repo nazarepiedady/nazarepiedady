@@ -4,7 +4,7 @@ I am in the same London timezone and **you can contract me** using one of these 
 
 I am interested in working on with the following programming languages:
 
-![](https://skillicons.dev/icons?i=html,css,javascript,typescript,python,ruby,go,rust)
+![](https://skillicons.dev/icons?i=html,css,javascript,typescript,python,ruby,go,rust,sass,svelte,vue,nuxt,react,django,fastapi,flask,adonis,express,mysql,postgresql,vite)
 
 I am a passionate open-source contributor, member and fellow of [Django Software Foundation](https://djangoproject.com/) and [Python Software Foundation](https://www.python.org/) by Portuguese and Brazilian communities, and:
 
