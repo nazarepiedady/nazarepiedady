@@ -13,7 +13,9 @@ I am a passionate open-source contributor, member and fellow of [Django Software
 - Main person behind the [nodejs.dev/pt](https://nodejs.dev/pt).
 - Main person behind the [v2.nuxtjs.org/pt](https://v2.nuxtjs.org/pt).
 
+<!--
 <div style="margin-top:25px;width:100%;display:flex;gap:0.2%;flex-direction:column;">
+
   <picture style="">
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=nazarepiedady&show_icons=true&theme=ayu-mirage&layout=compact&hide_border=true"
@@ -37,4 +39,6 @@ I am a passionate open-source contributor, member and fellow of [Django Software
     />
     <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazarepiedady&show_icons=true&theme=ayu-mirage&layout=compact&hide_border=true" />
   </picture>
+
 </div>
+-->
