@@ -4,7 +4,7 @@ I am in the same London timezone and **you can contract me** using one of these 
 
 I am interested in working on with the following programming languages:
 
-![](https://skillicons.dev/icons?i=html,css,javascript,typescript,python,ruby,go,rust,sass,svelte,vue,nuxt,react,django,fastapi,flask,adonis,express,mysql,postgresql,vite)
+![](https://skillicons.dev/icons?i=html,css,javascript,typescript,python,ruby,go,rust,sass,svelte,vue,nuxt,react,django,fastapi,flask,adonis,express,mysql,postgresql,graphql,vite,webpack,markdown,angular,svg,rails,redis,rabbitmq,linux)
 
 I am a passionate open-source contributor, member and fellow of [Django Software Foundation](https://djangoproject.com/) and [Python Software Foundation](https://www.python.org/) by Portuguese and Brazilian communities, and:
 
@@ -13,8 +13,8 @@ I am a passionate open-source contributor, member and fellow of [Django Software
 - Main person behind the [nodejs.dev/pt](https://nodejs.dev/pt).
 - Main person behind the [v2.nuxtjs.org/pt](https://v2.nuxtjs.org/pt).
 
-<div style="display:flex;gap:0.5%;">
-  <picture>
+<div style="margin-top:25px;width:100%;display:flex;gap:0.2%;flex-direction:column;">
+  <picture style="">
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=nazarepiedady&show_icons=true&theme=ayu-mirage&layout=compact&hide_border=true"
       media="(prefers-color-scheme: dark)"
@@ -23,10 +23,10 @@ I am a passionate open-source contributor, member and fellow of [Django Software
       srcset="https://github-readme-stats.vercel.app/api?username=nazarepiedady&show_icons=true&theme=github_light&layout=compact&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=nazarepiedady&show_icons=true&theme=ayu-mirage&layout=compact&hide_border=true" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=nazarepiedady&show_icons=true&theme=ayu-mirage&layout=compact&hide_border=true" />
   </picture>
 
-  <picture>
+  <picture style="">
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nazarepiedady&show_icons=true&theme=ayu-mirage&layout=compact&hide_border=true"
       media="(prefers-color-scheme: dark)"
@@ -35,6 +35,6 @@ I am a passionate open-source contributor, member and fellow of [Django Software
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nazarepiedady&show_icons=true&theme=github_light&layout=compact&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazarepiedady&show_icons=true&theme=ayu-mirage&layout=compact&hide_border=true" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazarepiedady&show_icons=true&theme=ayu-mirage&layout=compact&hide_border=true" />
   </picture>
 </div>
