@@ -5,9 +5,9 @@
 
 ### I am working on
 
-- Building of [pt.vuejs.org](https://github.com/vuejs-translations/docs-pt)
-- Building of [pt.vitejs.dev](https://github.com/vitejs/docs-pt)
-- Building of [pt.javascript.info](https://github.com/javascript-tutorial/pt.javascript.info)
+- [pt.vuejs.org](https://github.com/vuejs-translations/docs-pt)
+- [pt.vitejs.dev](https://github.com/vitejs/docs-pt)
+- [pt.javascript.info](https://github.com/javascript-tutorial/pt.javascript.info)
 
 
 ### Find me on
