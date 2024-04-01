@@ -1,7 +1,16 @@
-I am a programmer with more than 8 years' experience writing applications for the web platform, with interests in accessibility, user experience, optimizing web systems, designing user interfaces, reducing development costs for software projects.
+## Hi, I'm Nazaré!
 
-I specialize in the use of interpreted and dynamic programming languages, but I'm open to expanding this toolkit if necessary.
+Senior Web Programmer (+8 years)
+🇦🇴 Living in Luanda, Angola
 
-I'm currently working full-time on open source, but I'm open to interesting jobs that offer opportunities for learning and professional growth.
+## I am working on
 
-If you're interested in my profile, and you're not legally represented in my country, you can use a global human resources management platform such as [deel](https://www.deel.com/) or [remote](https://remote.com/) to hire my services.
+- Currently building [pt.vuejs.org](https://github.com/vuejs-translations/docs-pt) ![](https://skillicons.dev/icons?i=vue)
+- Currently building [pt.vitejs.dev](https://github.com/vitejs/docs-pt) ![](https://skillicons.dev/icons?i=vite)
+- Currently building [pt.javascript.info](https://github.com/javascript-tutorial/pt.javascript.info) ![](https://skillicons.dev/icons?i=js)
+
+
+## Find me on my
+
+- [Personal website](https://nazarepiedady.github.io/) (under construction)
+- [LinkedIn account](https://linkedin.com/in/nazarepiedady)
