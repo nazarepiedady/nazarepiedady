@@ -9,10 +9,6 @@
 - [pt.vitejs.dev](https://github.com/vitejs/docs-pt)
 - [pt.javascript.info](https://github.com/javascript-tutorial/pt.javascript.info)
 
-### Find me on
-
-- [LinkedIn](https://linkedin.com/in/nazarepiedady)
-
 ### Sponsor me on
 
 - [OpenCollective](https://opencollective.com/nazarepiedady)
