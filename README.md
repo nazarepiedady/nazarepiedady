@@ -4,6 +4,6 @@ Interested in computer science, mathematics, user interface design, user experie
 
 Proficient and experienced in the following coding languages: HTML, CSS, JavaScript, TypeScript, and Python.
 
-Interested in learning the programming languages: Ruby, Go, Rust, and Crystal.
+Interested in learning more about the following programming languages: Ruby, Go, Rust, and Crystal.
 
 If you want, you can support me financially through [OpenCollective](https://opencollective.com/nazarepiedady).
