@@ -1,9 +1,9 @@
-Experienced web developer with more than 8 years in the computer programming market, specializing in the design and coding of high-performance, accessible, scalable and optimized web applications.
+Experienced web developer with more than 8 years in the computer programming field, specializing in the design and coding of optimized, accessible, scalable and beautiful web applications.
 
-Interested in computer science, mathematics, user interface design, user experience design, traditional and digital illustration.
+Proficient in HTML, CSS, JavaScript, TypeScript, and Python.
 
-Proficient and experienced in the following coding languages: HTML, CSS, JavaScript, TypeScript, and Python.
+Interested in computer science, mathematics, user interface design, user experience design, and artistic illustration.
 
 Interested in learning more about the following programming languages: Ruby, Go, Rust, and Crystal.
 
-If you want, you can support me financially through [OpenCollective](https://opencollective.com/nazarepiedady).
+Sponsor me on [OpenCollective](https://opencollective.com/nazarepiedady).
