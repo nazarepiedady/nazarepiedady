@@ -1,4 +1,4 @@
-Experienced **Web Developer** with more than 8 years in the computer programming field, specializing in the design and coding of optimized, accessible, scalable and beautiful web applications.
+Experienced **web developer** with more than 8 years in the computer programming field, specializing in the design and coding of optimized, accessible, scalable and beautiful web applications.
 
 Proficient in HTML, CSS, JavaScript, TypeScript, and Python. 🥰
 
